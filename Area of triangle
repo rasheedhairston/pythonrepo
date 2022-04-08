@@ -1,4 +1,4 @@
-# Write the are of a triangle using height and width 
+# Write the Area of a triangle using height and width 
 h= float(input(' Please write the height of triangle: '))
 w= float(input(' Please write the width of triangle: '))
 
