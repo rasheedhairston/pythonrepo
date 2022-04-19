@@ -1,7 +1,7 @@
 # import random module 
 import random
 
-# set varaible to a random number
+# set varaible to a static number
 num=49
 
 # set variable "r" to populate a random number between 1-100
